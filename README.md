@@ -5,6 +5,11 @@ Robotics Engineering is an advanced STEM course at Windsor High School.  In Robo
 ----
 ## Course Resources
 
+- [GitHub Tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
+- [Think Python Text](https://greenteapress.com/thinkpython/html/index.html)
+- [All About Circuits Textbook](https://www.allaboutcircuits.com/textbook/)
+- [Learn Onshape](https://learn.onshape.com/)
+- [All3DP Basics of 3D Printing](https://all3dp.com/2/3d-printing-for-beginners-all-you-need-to-know-to-get-started/)
 
 ## Unit 1 - Fundamentals of DC/AC (24 days)
 
@@ -68,3 +73,4 @@ XIII.	Pulse Waveforms, Oscilloscope and Function Generator (2 days)
 
 
 ## Unit 2 - Mechanical Design
+
