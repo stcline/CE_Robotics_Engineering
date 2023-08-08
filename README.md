@@ -1,5 +1,10 @@
-# CE_Robotics_Engineering
-Course Outline for CE Robotics Engineering at WHS
+<img src="https://github.com/stcline/CE_Robotics_Engineering/assets/22602103/75f21e8b-a5cd-4daa-9669-0489722330d3" alt="WHS Robotics" style="width:200px;"/>
+
+# CE Robotics Engineering at Windsor High School
+Robotics Engineering is an advanced STEM course at Windsor High School.  In Robotics Engineering we learn advanced robotics design and programming.  This includes AC and DC electronics concepts and a variety of programming workflows. This course is considered a college-level course.  As such, a higher level of effort is required to succeed.  In return, students learn more and explore more advanced applications.  This course actually counts for credit in two different classes at AIMS Community College.  As a result, we have two syllabi.  One for [ELT 1206](https://docs.google.com/document/d/1Biod8wcFw0iRQinYHzQm_V2zSI5m91SE) and one for [ELT 2367](https://docs.google.com/document/d/1BrcbYQADkq09YwFwaTwt0EPK6RKOWthN/edit?usp=sharing&ouid=102571509710008495868&rtpof=true&sd=true).
+----
+## Course Resources
+
 
 ## Unit 1 - Fundamentals of DC/AC (24 days)
 
