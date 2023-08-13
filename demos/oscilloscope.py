@@ -90,6 +90,8 @@ duration = end_time - start_time
 
 # Print the duration of the square wave
 print("Duration: " + str(duration) + " s")
+# Print a blank line
+print()
 
 # Reset the GPIO pins
 GPIO.cleanup()
