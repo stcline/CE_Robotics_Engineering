@@ -61,7 +61,7 @@ off_time = period - on_time
 
 # Print the frequency, duty cycle, duration and number of cycles
 print("Frequency: " + str(frequency) + " Hz")
-print("Duty cycle: " + str(duty_cycle) + " %")
+print("Duty cycle: " + str(duty_cycle * 100) + " %")
 # print("Duration: " + str(duration) + " s")
 print("Number of cycles: " + str(cycles))
 # Print a blank line
