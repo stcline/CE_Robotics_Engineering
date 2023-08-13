@@ -11,11 +11,12 @@ Robotics Engineering is an advanced STEM course at Windsor High School.  In Robo
 - [Learn Onshape](https://learn.onshape.com/)
 - [All3DP Basics of 3D Printing](https://all3dp.com/2/3d-printing-for-beginners-all-you-need-to-know-to-get-started/)
 
-## Unit 1 - Fundamentals of DC/AC (24 days)
+## Unit 1 - Fundamentals of DC/AC (25 days)
 
-I.	Introduction, Safety, Electrical Concepts (2 days)
+I.	Introduction, Safety, Electrical Concepts (3 days)
  - harmless, injurious, and lethal electrocution levels
  - metric system
+ - soldering
  - digital multimeters
  - electrons, conductors, insulators and work
 
