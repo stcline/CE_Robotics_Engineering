@@ -75,3 +75,18 @@ XIII.	Pulse Waveforms, Oscilloscope and Function Generator (2 days)
 
 ## Unit 2 - Mechanical Design
 
+I. Mechanisms in Motion
+  - Inputs and Outputs
+  - Types of Motion
+
+II. Mechanical Advantage
+  - Levers
+  - Pulleys
+  - Gears
+
+III. Linear Motion
+
+IV. Drive Systems
+
+II. CAD Fundamentals
+
