@@ -22,6 +22,9 @@ import time
 # Set the GPIO pin numbering mode
 GPIO.setmode(GPIO.BCM)
 
+# Ignore warnings
+GPIO.setwarnings(False)
+
 # Set the GPIO pins to output mode
 GPIO.setup(17, GPIO.OUT)
 GPIO.setup(27, GPIO.OUT)
