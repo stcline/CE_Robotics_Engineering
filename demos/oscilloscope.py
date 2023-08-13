@@ -37,6 +37,15 @@ GPIO.setup(25, GPIO.OUT)
 frequency = float(input("Enter the frequency of the square wave: "))
 # Ask the user for the duty cycle of the square wave
 duty_cycle = float(input("Enter the duty cycle of the square wave: "))
+# If the duty cycle is greater than 1 or less than 0
+if duty_cycle > 1 or duty_cycle < 0:
+    # Print an error message
+    print("Error: Duty cycle must be between 0 and 1")
+    # Print a blank line
+    print()
+    # Ask the user for the duty cycle of the square wave
+    duty_cycle = float(input("Enter the duty cycle of the square wave: "))
+
 # # Ask the user for the duration of the square wave
 # duration = float(input("Enter the duration of the square wave: "))
 # Ask the user for the number of cycles of the square wave
