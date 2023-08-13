@@ -41,6 +41,8 @@ duty_cycle = float(input("Enter the duty cycle of the square wave: "))
 # duration = float(input("Enter the duration of the square wave: "))
 # Ask the user for the number of cycles of the square wave
 cycles = int(input("Enter the number of cycles of the square wave: "))
+# Print a blank line
+print()
 # Calculate the period of the square wave
 period = 1 / frequency
 # Calculate the time the square wave is on
@@ -53,6 +55,8 @@ print("Frequency: " + str(frequency) + " Hz")
 print("Duty cycle: " + str(duty_cycle) + " %")
 # print("Duration: " + str(duration) + " s")
 print("Number of cycles: " + str(cycles))
+# Print a blank line
+print()
 
 # Record the start time
 start_time = time.time()
@@ -102,5 +106,7 @@ if run_again == "y":
 elif run_again == "n":
     # End the program
     print("End of program")
+    # Print a blank line
+    print()
 
 # End of program
