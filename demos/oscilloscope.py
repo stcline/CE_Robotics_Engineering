@@ -90,4 +90,17 @@ print("Duration: " + str(duration) + " s")
 # Reset the GPIO pins
 GPIO.cleanup()
 
+# Ask user if they want to run the script again
+run_again = input("Run again? (y/n): ")
+
+# If the user wants to run the script again
+if run_again == "y":
+    # Run the script again
+    exec(open("oscilloscope.py").read())
+
+# If the user does not want to run the script again
+elif run_again == "n":
+    # End the program
+    print("End of program")
+
 # End of program
