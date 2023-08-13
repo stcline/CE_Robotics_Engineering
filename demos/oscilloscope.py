@@ -48,6 +48,15 @@ on_time = period * duty_cycle
 # Calculate the time the square wave is off
 off_time = period - on_time
 
+# Print the frequency, duty cycle, duration and number of cycles
+print("Frequency: " + str(frequency) + " Hz")
+print("Duty cycle: " + str(duty_cycle) + " %")
+# print("Duration: " + str(duration) + " s")
+print("Number of cycles: " + str(cycles))
+
+# Record the start time
+start_time = time.time()
+
 # Loop for the number of cycles
 for i in range(cycles):
     # Set the GPIO pins to high
@@ -68,6 +77,15 @@ for i in range(cycles):
     GPIO.output(25, GPIO.LOW)
     # Wait for the off time
     time.sleep(off_time)
+
+# Record the end time
+end_time = time.time()
+
+# Calculate the duration of the square wave
+duration = end_time - start_time
+
+# Print the duration of the square wave
+print("Duration: " + str(duration) + " s")
 
 # Reset the GPIO pins
 GPIO.cleanup()
