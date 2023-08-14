@@ -74,20 +74,20 @@ XIII.	Pulse Waveforms, Oscilloscope and Function Generator (2 days)
   - Calculate and/or measure amplitude, period, frequency, and phase shift of sine, step, and triangle functions
 
 
-## Unit 2 - Mechanical Design
+## Unit 2 - Mechanical Design (10 days)
 
-I. Mechanisms in Motion
+I. Mechanisms in Motion (2 days)
   - Inputs and Outputs
   - Types of Motion
 
-II. Mechanical Advantage
+II. Mechanical Advantage (2 days)
   - Levers
   - Pulleys
   - Gears
 
-III. Linear Motion
+III. Linear Motion (1 day)
 
-IV. Drive Systems
+IV. Drive Systems (1 day)
 
-II. CAD Fundamentals
+II. CAD Fundamentals (4 days)
 
