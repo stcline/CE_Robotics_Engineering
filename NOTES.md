@@ -7,3 +7,5 @@ Magnetism: https://www.sciencebuddies.org/stem-activities/how-to-make-a-homopola
 PCB Design: https://education.upverter.com/
 
 https://www.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+https://www.youtube.com/watch?v=-gcBVaCIKhE
